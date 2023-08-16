@@ -1,5 +1,5 @@
 {
-  "name": "react-native-modal-queue",
+  "name": "react-native-queued-modals",
   "version": "0.0.1",
   "description": "An enhanced React Native modal",
   "main": "dist/index.js",
@@ -17,6 +17,7 @@
     "native",
     "modal",
     "react-native-modal",
+    "react-native-modal-queue",
     "queue",
     "android",
     "ios",
