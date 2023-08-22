@@ -1,6 +1,6 @@
 {
   "name": "react-native-queued-modals",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An enhanced React Native modal",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -27,6 +27,7 @@
   ],
   "author": "Simon Yu",
   "license": "MIT",
+  "homepage": "https://github.com/mdyu1000/react-native-modal-queue.git",
   "dependencies": {
     "react-native-modal": "^13.0.1"
   },
