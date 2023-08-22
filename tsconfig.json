@@ -4,6 +4,7 @@
     "outDir": "./dist",
     "noEmit": false,
     "declaration": true,
-    "strict": true
+    "strict": true,
+    "jsx": "react"
   }
 }
